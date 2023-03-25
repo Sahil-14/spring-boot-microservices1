@@ -1,0 +1,10 @@
+com/programmingtechi/productservice/dto/ProductRequest.class
+com/programmingtechi/productservice/model/Product.class
+com/programmingtechi/productservice/service/ProductService.class
+com/programmingtechi/productservice/dto/ProductResponse.class
+com/programmingtechi/productservice/dto/ProductRequest$ProductRequestBuilder.class
+com/programmingtechi/productservice/dto/ProductResponse$ProductResponseBuilder.class
+com/programmingtechi/productservice/controller/ProductController.class
+com/programmingtechi/productservice/model/Product$ProductBuilder.class
+com/programmingtechi/productservice/ProductServiceApplication.class
+com/programmingtechi/productservice/repository/ProductRepository.class

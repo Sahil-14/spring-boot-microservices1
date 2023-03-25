@@ -1,0 +1,7 @@
+/Users/sahilshimpi/Documents/java/microservices Project/microservices-new/product-service/src/main/java/com/programmingtechi/productservice/model/Product.java
+/Users/sahilshimpi/Documents/java/microservices Project/microservices-new/product-service/src/main/java/com/programmingtechi/productservice/ProductServiceApplication.java
+/Users/sahilshimpi/Documents/java/microservices Project/microservices-new/product-service/src/main/java/com/programmingtechi/productservice/dto/ProductResponse.java
+/Users/sahilshimpi/Documents/java/microservices Project/microservices-new/product-service/src/main/java/com/programmingtechi/productservice/repository/ProductRepository.java
+/Users/sahilshimpi/Documents/java/microservices Project/microservices-new/product-service/src/main/java/com/programmingtechi/productservice/dto/ProductRequest.java
+/Users/sahilshimpi/Documents/java/microservices Project/microservices-new/product-service/src/main/java/com/programmingtechi/productservice/service/ProductService.java
+/Users/sahilshimpi/Documents/java/microservices Project/microservices-new/product-service/src/main/java/com/programmingtechi/productservice/controller/ProductController.java
